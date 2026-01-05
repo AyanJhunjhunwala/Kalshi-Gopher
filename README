@@ -1,0 +1,30 @@
+# Kalshi-Gopher
+
+A Go-based API connector for [Kalshi](https://kalshi.com), the first regulated prediction market exchange in the US.
+
+## Overview
+
+Kalshi-Gopher provides a simple and efficient interface to interact with the Kalshi API, enabling:
+
+- **Statistical Arbitrage** - Identify and exploit pricing inefficiencies across related markets
+- **Market Data Analysis** - Fetch real-time and historical market data
+- **Automated Trading** - Build and deploy trading strategies programmatically
+- **Portfolio Management** - Track positions and manage risk
+
+## Features
+
+- Full Kalshi API coverage
+- Real-time market data streaming
+- Order execution and management
+- Account and portfolio tracking
+- Rate limiting and error handling
+
+## Getting Started
+
+```go
+// Coming soon - example usage
+```
+
+## Disclaimer
+
+This project is for educational and research purposes. Trading on prediction markets involves risk. Always trade responsibly.
